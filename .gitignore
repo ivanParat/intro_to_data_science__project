@@ -4,3 +4,5 @@ venv/
 data.rar
 *.png
 *.html
+population_census/
+election/

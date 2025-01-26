@@ -1,5 +1,5 @@
 # Intro To Data Science
-- 1. Install data from link and extract in folder: #https://1drv.ms/u/s!AreLEd6mQknmbKz6SMKSC4cmzU0?e=Lx2hEp
-- 2. election_data.ipynb, geodata.ipynb and population_census_data.ipynb notebooks were used to transform the original data files so that they are formatted in a way that makes working with the data possible and easier. You don't have to run them if you've downloaded and extracted the data folder as specified in the previous step, because all the files necessary to run the other notebooks are already there. Though of course, if you want to see how the data files were transformed, you can look through the notebooks and run them.
-- 3. Run election_visualization.ipynb and and census_visualization.ipynb to get maps
-- 4. Run correlation.ipynb, clustering.ipynb, similarity_index.ipynb and prediction_model.ipynb for further analysis
+1. Install data from link and extract in folder: #https://1drv.ms/u/s!AreLEd6mQknmchkFaRGh7Pykqso?e=4DKkNn
+2. election_data.ipynb, geodata.ipynb and population_census_data.ipynb notebooks were used to transform the original data files so that they are formatted in a way that makes working with the data possible and easier. You don't have to run them if you've downloaded and extracted the data folder as specified in the previous step, because all the files necessary to run the other notebooks are already there. Though of course, if you want to see how the data files were transformed, you can look through the notebooks and run them.
+3. Run election_visualization.ipynb and and census_visualization.ipynb to get maps
+4. Run correlation.ipynb, clustering.ipynb, similarity_index.ipynb and prediction_model.ipynb for further analysis
